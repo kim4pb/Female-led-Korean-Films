@@ -1,3 +1,8 @@
 Data/
 02.EDA/.ipynb_checkpoints/
 03.ButterKnife/.ipynb_checkpoints/
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.zip
+*.xlsx
