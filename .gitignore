@@ -1,6 +1,6 @@
 Data/
 01.Data_Collection/.ipynb_checkpoints/
-01.Data_Collection/db/
+01.Data_Collection/Crawling/db/
 01.Data_Collection/html/
 02.EDA/.ipynb_checkpoints/
 03.ButterKnife/.ipynb_checkpoints/
