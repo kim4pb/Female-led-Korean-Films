@@ -1,7 +1,12 @@
+.ipynb_checkpoints/
 Data/
 01.Data_Collection/.ipynb_checkpoints/
+01.Data_Collection/keyfile.txt
+01.Data_Collection/Crawling/.ipynb_checkpoints/
 01.Data_Collection/Crawling/db/
-01.Data_Collection/html/
+01.Data_Collection/Crawling/*.html
+01.Data_Collection/Crawling/Crawling_theaters.ipynb
+01.Data_Collection/Theaters_crawled_files/*.html
+01.Data_Collection/Theaters_crawled_files/.ipynb_checkpoints/
 02.EDA/.ipynb_checkpoints/
 03.ButterKnife/.ipynb_checkpoints/
-.ipynb_checkpoints/
