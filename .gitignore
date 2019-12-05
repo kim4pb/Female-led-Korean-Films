@@ -8,5 +8,6 @@ Data/
 01.Data_Collection/Crawling/Crawling_theaters.ipynb
 01.Data_Collection/Theaters_crawled_files/*.html
 01.Data_Collection/Theaters_crawled_files/.ipynb_checkpoints/
+01.Data_Collection/show_timetable.csv
 02.EDA/.ipynb_checkpoints/
 03.ButterKnife/.ipynb_checkpoints/
